@@ -8,3 +8,23 @@ before_install:
 
 script:
   - docker run -e CI=true adarsh/docker-react npm run test
+master 45c25f0
+ less than a minute ago
+ci added
+-
+user adarshsinghtomar7909043383@gmail.com has not confirmed their email address
+ master e969e6b
+ 2 minutes ago
+ci
+-
+File AdarshSinghTomar768/Docker-react:.travis.yml not found on RemoteVcs
+ master 03548c2
+ 10 minutes ago
+Trigger Travis again
+-
+user adarshsinghtomar7909043383@gmail.com has not confirmed their email address
+ master 04f67c8
+ 46 minutes ago
+Trigger Travis build
+-
+user adarshsinghtomar7909043383@gmail.com 
